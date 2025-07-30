@@ -12,7 +12,7 @@
 
 ### Education
 
-- 🧑‍🎓📚 Bachelor in Mechanical Engineering  (in progress 🏃‍♂️)  @ [Universidade Federal Federal de Santa Catarina 🇧🇷](https://en.ufsc.br/): 4th best mechanical engineering school in Brazil.
+- 🧑‍🎓📚 Bachelor in Mechanical Engineering  @ [Universidade Federal Federal de Santa Catarina 🇧🇷](https://en.ufsc.br/): 4th best mechanical engineering school in Brazil.
 
 ### Personal projects
 - 💬 Currently developing 
