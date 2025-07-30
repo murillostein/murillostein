@@ -6,8 +6,9 @@
 
 ### Work
 
-- [🟪 BIX Tech](https://www.bix-tech.com//): consultancy firm specialized in data projects development. Data Science Internship.
-- [👨‍🏫 Einstein Floripa](https://einsteinfloripa.com.br/) (volunteer): biggest eduaction NGO of Brazil. Head of IT. 
+- [WEG](
+- [🟪 BIX Tech](https://www.bix-tech.com//): consultancy firm specialized in data projects development. Data Science Consultant.
+- [👨‍🏫 Einstein Floripa](https://einsteinfloripa.com.br/) (volunteer): biggest educational NGO of Brazil. Head of IT. 
 - [🤖 Laboratory of Applied Robotics](https://robotica.ufsc.br/en/): R&D laboratory. Research assistant on a project of a robot for heavy loads transportation.
 
 ### Education
